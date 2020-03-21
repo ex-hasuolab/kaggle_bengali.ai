@@ -1,0 +1,6 @@
+
+grapheme_root : 文字の最小単位
+
+vowel_diacritic : 母音のダイアクリティカルマーク
+
+consonant_diacritic : 子音のダイアクリティカルマーク
